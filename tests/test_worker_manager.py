@@ -1,6 +1,6 @@
 import pytest
 
-from worker_manager import AsyncWorker, WorkerManager
+from src.worker_manager import AsyncWorker, WorkerManager
 
 
 class TestMatchmakerWorker:
